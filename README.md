@@ -10,8 +10,7 @@ The backend API is developed using Python's Flask framework, and is deployed as 
 
 ## Frontend Description
 Frontend Description
-* []()
-* []()
+Frontend multi-layout graphical user interface is developed using Swift. It leverages Alamofire HTTP networking library to interact with backend.
 
 ## Contributors
 * [Prithwish Dan (Backend)](https://github.com/pdan101)
